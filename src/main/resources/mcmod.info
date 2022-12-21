@@ -1,13 +1,13 @@
 [
 {
-  "modid": "keystrokesmod",
-  "name": "KeystrokesMod",
-  "description": "Shows your keystrokes ingame. | Updated and modified by spiderfrog | V5 by Yario & Extazz | Ported by OFP.",
+  "modid": "tycoon",
+  "name": "Tycoon",
+  "description": "A Master Ghost Client | Updated and Edited by Criso.",
   "version": "KMV5",
-  "url": "https://www.youtube.com/ofpmedia",
+  "url": "https://dscolink.ga/discord",
   "updateUrl": "",
-  "authorList": ["OFP", "Fyu", "spiderfrog", "Yario & Extazz"],
-  "credits": "OFP, Fyu, spiderfrog, Yario & Extazz",
+  "authorList": ["Criso", "ManLoJe"],
+  "credits": "Criso, ManLoJe",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
